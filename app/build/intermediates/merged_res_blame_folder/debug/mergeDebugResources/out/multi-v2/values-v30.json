@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gwabs.movematecloneapp-mergeDebugResources-50:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/gwabstech/.gradle/caches/8.13/transforms/b88caec29d2bc617d03ac42d2ee6ba8c/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/e80788dd75c0d272f4f54c1cc0045f81/transformed/navigation-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/05f4e0358e9bf345aacae4306696c15f/transformed/navigation-common-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/eb1094046a3b77a3b9f8c617f7a402aa/transformed/navigation-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/b88caec29d2bc617d03ac42d2ee6ba8c/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/28ae79fe39459eb5312087228aa34b0b/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/fb33e6e9bf0294b0f09f70e43c755cd9/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/99d2536bd7788e35bdb65ab3cd7dfd0c/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/bb0b3310b5b56ffcca480497dad45c63/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/906c8a8c5e72ec8d51e2765bc71c9e06/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/feb32a3cc7948b24993cdde89b8c5a43/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/7a83716adefa8ec6b47fa93faf4f42b1/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/827024af76a02ba4fe1dab9a126f90e4/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/fe519e8176f080e71f037fe243da0ce3/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/e76cba43f1b7b4b8f752242d5073be41/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/259f505c1582a6cd5d1cc513f0140078/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/252b956e0f79d3bdd0f1df22bd09005e/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/77cf46e92b41bb83354685c700eaf788/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/60e8289fce23c777c5e147664821f05f/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/gwabstech/.gradle/caches/8.13/transforms/fe9998634677bf6f94d326b2983c86e5/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/aff6e4ef2bcad57c52b2056b4d880e13/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/cb50f55cf93567c613126145d90e640e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/da59ad577a5690a7957769d679e6a248/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/e4e9a74949df75bb0abd0c03f3fae401/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/84b72ced415ce33e34859d9724c74abe/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/b1a83e3059c68244eff0035abb04e8e3/transformed/savedstate-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/786d33ead29ee3c27f6cc63291097e80/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/1e80e64296a8d2e483d45de017421fda/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/68e6d7d4c3a15c0aea117ecaa46a3765/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/41a96847b4c090a7087d79038f35f925/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/cf691568e60bf426b72e23bcc7a7ac59/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/13e6df79971354aa2438019319d48c95/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/feb33bfa6f4f84e0ef9d192ea5d4a15f/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/fc2cecc2bc5f506a390ea0ea540fd2f0/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/57e8df463e36a5860f37c8b905ec29a2/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/b58fecf18850e3a4bb01a54ffc971498/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/32e2ce8d94bb4d5e3f58ac68c86d5468/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/c414a369116ba7b44dccc71c51668b44/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/dacd7af9f96a116616dc8ff3f4c4781a/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/91cd016fbed8b5f755dac98dbe4025bf/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/gwabstech/.gradle/caches/8.13/transforms/34cbe5078b37c5a3e2406f436113c676/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/b731ce8d72992c056c9ff7b33c719879/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/59bf88aa93707db762fc55a1b6b29171/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/712e25936ebb5ad9e62f61049e5138be/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/gwabstech/.gradle/caches/8.13/transforms/e1d6947db378cf8daf19930ee474ab13/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gwabstech/.gradle/caches/8.13/transforms/27782cd08a98a1d0bc73dab5dd16a21a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/59bf88aa93707db762fc55a1b6b29171/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/59bf88aa93707db762fc55a1b6b29171/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:11:9-70
+	android:icon
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:9:9-65
+	android:allowBackup
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:13:9-54
+	android:dataExtractionRules
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.gwabs.movematecloneapp.MainActivity
+ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:18:13-58
+	android:name
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/e80788dd75c0d272f4f54c1cc0045f81/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/e80788dd75c0d272f4f54c1cc0045f81/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/05f4e0358e9bf345aacae4306696c15f/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/05f4e0358e9bf345aacae4306696c15f/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/eb1094046a3b77a3b9f8c617f7a402aa/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.2] /home/gwabstech/.gradle/caches/8.13/transforms/eb1094046a3b77a3b9f8c617f7a402aa/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/b88caec29d2bc617d03ac42d2ee6ba8c/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/b88caec29d2bc617d03ac42d2ee6ba8c/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/28ae79fe39459eb5312087228aa34b0b/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/28ae79fe39459eb5312087228aa34b0b/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/fb33e6e9bf0294b0f09f70e43c755cd9/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/fb33e6e9bf0294b0f09f70e43c755cd9/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/99d2536bd7788e35bdb65ab3cd7dfd0c/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/99d2536bd7788e35bdb65ab3cd7dfd0c/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/bb0b3310b5b56ffcca480497dad45c63/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/bb0b3310b5b56ffcca480497dad45c63/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/906c8a8c5e72ec8d51e2765bc71c9e06/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/906c8a8c5e72ec8d51e2765bc71c9e06/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/feb32a3cc7948b24993cdde89b8c5a43/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/feb32a3cc7948b24993cdde89b8c5a43/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/7a83716adefa8ec6b47fa93faf4f42b1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/7a83716adefa8ec6b47fa93faf4f42b1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/827024af76a02ba4fe1dab9a126f90e4/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/827024af76a02ba4fe1dab9a126f90e4/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/fe519e8176f080e71f037fe243da0ce3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/fe519e8176f080e71f037fe243da0ce3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/e76cba43f1b7b4b8f752242d5073be41/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/e76cba43f1b7b4b8f752242d5073be41/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/259f505c1582a6cd5d1cc513f0140078/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/259f505c1582a6cd5d1cc513f0140078/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/252b956e0f79d3bdd0f1df22bd09005e/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/252b956e0f79d3bdd0f1df22bd09005e/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/77cf46e92b41bb83354685c700eaf788/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/77cf46e92b41bb83354685c700eaf788/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/60e8289fce23c777c5e147664821f05f/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/60e8289fce23c777c5e147664821f05f/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/gwabstech/.gradle/caches/8.13/transforms/fe9998634677bf6f94d326b2983c86e5/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/gwabstech/.gradle/caches/8.13/transforms/fe9998634677bf6f94d326b2983c86e5/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/aff6e4ef2bcad57c52b2056b4d880e13/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/aff6e4ef2bcad57c52b2056b4d880e13/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/cb50f55cf93567c613126145d90e640e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/cb50f55cf93567c613126145d90e640e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/da59ad577a5690a7957769d679e6a248/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/da59ad577a5690a7957769d679e6a248/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/e4e9a74949df75bb0abd0c03f3fae401/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/e4e9a74949df75bb0abd0c03f3fae401/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/84b72ced415ce33e34859d9724c74abe/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/84b72ced415ce33e34859d9724c74abe/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/b1a83e3059c68244eff0035abb04e8e3/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/b1a83e3059c68244eff0035abb04e8e3/transformed/savedstate-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/786d33ead29ee3c27f6cc63291097e80/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/786d33ead29ee3c27f6cc63291097e80/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/1e80e64296a8d2e483d45de017421fda/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/1e80e64296a8d2e483d45de017421fda/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/68e6d7d4c3a15c0aea117ecaa46a3765/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/68e6d7d4c3a15c0aea117ecaa46a3765/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/41a96847b4c090a7087d79038f35f925/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/41a96847b4c090a7087d79038f35f925/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/cf691568e60bf426b72e23bcc7a7ac59/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/cf691568e60bf426b72e23bcc7a7ac59/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/13e6df79971354aa2438019319d48c95/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /home/gwabstech/.gradle/caches/8.13/transforms/13e6df79971354aa2438019319d48c95/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/feb33bfa6f4f84e0ef9d192ea5d4a15f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/feb33bfa6f4f84e0ef9d192ea5d4a15f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/fc2cecc2bc5f506a390ea0ea540fd2f0/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/fc2cecc2bc5f506a390ea0ea540fd2f0/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/57e8df463e36a5860f37c8b905ec29a2/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/57e8df463e36a5860f37c8b905ec29a2/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/b58fecf18850e3a4bb01a54ffc971498/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] /home/gwabstech/.gradle/caches/8.13/transforms/b58fecf18850e3a4bb01a54ffc971498/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/32e2ce8d94bb4d5e3f58ac68c86d5468/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/32e2ce8d94bb4d5e3f58ac68c86d5468/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/c414a369116ba7b44dccc71c51668b44/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/c414a369116ba7b44dccc71c51668b44/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/dacd7af9f96a116616dc8ff3f4c4781a/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/dacd7af9f96a116616dc8ff3f4c4781a/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/91cd016fbed8b5f755dac98dbe4025bf/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/91cd016fbed8b5f755dac98dbe4025bf/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/gwabstech/.gradle/caches/8.13/transforms/34cbe5078b37c5a3e2406f436113c676/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/gwabstech/.gradle/caches/8.13/transforms/34cbe5078b37c5a3e2406f436113c676/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/b731ce8d72992c056c9ff7b33c719879/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/b731ce8d72992c056c9ff7b33c719879/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/59bf88aa93707db762fc55a1b6b29171/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/59bf88aa93707db762fc55a1b6b29171/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/712e25936ebb5ad9e62f61049e5138be/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gwabstech/.gradle/caches/8.13/transforms/712e25936ebb5ad9e62f61049e5138be/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/gwabstech/.gradle/caches/8.13/transforms/e1d6947db378cf8daf19930ee474ab13/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/gwabstech/.gradle/caches/8.13/transforms/e1d6947db378cf8daf19930ee474ab13/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gwabstech/.gradle/caches/8.13/transforms/27782cd08a98a1d0bc73dab5dd16a21a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gwabstech/.gradle/caches/8.13/transforms/27782cd08a98a1d0bc73dab5dd16a21a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gwabstech/AndroidStudioProjects/MovemateCloneApp/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/5f7cc940ffd66abf72ef7a0ee7cce54b/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gwabstech/.gradle/caches/8.13/transforms/fff654fbd16ccac4ca7724352d6d8546/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gwabstech/.gradle/caches/8.13/transforms/c2c53e8942adbd7b7389991638d5be46/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.gwabs.movematecloneapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.gwabs.movematecloneapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/gwabstech/.gradle/caches/8.13/transforms/b9de1e52ca423fbfc8c04cd0019aea39/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /home/gwabstech/.gradle/caches/8.13/transforms/b9a15be685271c63eba20cb921e2be5e/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] /home/gwabstech/.gradle/caches/8.13/transforms/8c739b6786c19761de0ca91e8f256c4d/transformed/ui-test-manifest-1.7.8/AndroidManifest.xml:24:13-63
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/gwabstech/.gradle/caches/8.13/transforms/97db7f98754951e1445c0ad297e6acf7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
